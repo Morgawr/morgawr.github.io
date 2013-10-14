@@ -176,8 +176,8 @@ No styleguide reference.
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
-  background-color: #ffffff;
-  color: #2d2d2d;
+  background-color: #e1cfec;
+  color: #381f43;
 }
 /* LINK */
 a:link {
@@ -403,7 +403,7 @@ pre {
 }
 .unit-article .unit-foot {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png') repeat 0 0;
-  background-color: #9C8AA5;
+  background-color: #4c4052;
   color: #fafafa;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
