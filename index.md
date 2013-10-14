@@ -16,6 +16,8 @@ title: (def main :page)
       {{ post.content }}
     {% endif %}
   </div>
+  <hr />
+  <br />
 {% endfor %}
 
 {% if site.posts == empty %}
