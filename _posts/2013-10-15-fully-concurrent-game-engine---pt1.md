@@ -7,6 +7,8 @@ tags: ["Cloister", "Gamedev", "Engine"]
 ---
 {% include JB/setup %}
 
+[Part 2 -->](http://morgawr.github.io/game%20development/2013/10/17/fully-concurrent-game-engine---pt2/)
+
 ### Introduction
 
 Game engine development is a very interesting and complex subject for game developers. There is something incredibly appealing in trying to cram a highly modular, flexible and yet fast design into the quasi-realtime requirements of a game engine. 
