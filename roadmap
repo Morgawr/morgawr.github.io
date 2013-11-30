@@ -1,0 +1,5 @@
+1) introduction - DONE
+2) design theory - DONE
+3) agents and time module + introduction to Clojure DONE
+4) message model, e-send vs e-act
+5) architecture of the engine, dedicated threads and common threadpool
