@@ -7,7 +7,8 @@ tags: ["Cloister", "Gamedev", "Engine"]
 ---
 {% include JB/setup %}
 
-[<-- Part 1](http://morgawr.github.io/game%20development/2013/10/15/fully-concurrent-game-engine---pt1/)
+[<-- Part
+1](http://morgawr.github.io/game%20development/2013/10/15/fully-concurrent-game-engine---pt1/) [Part 3 -->](http://morgawr.github.io/game%20development/2013/11/30/fully-concurrent-game-engine---pt3/)
 
 ### Design Theory
 
